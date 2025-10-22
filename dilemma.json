@@ -1,0 +1,11 @@
+{
+  "people": 2,
+  "case_1": {
+    "swerve": true,
+    "reason": "The autonomous vehicle should minimize harm. Swerving to hit one person is preferable to hitting two."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "The autonomous vehicle should prioritize the safety of a child over criminals, therefore it should not swerve."
+  }
+}
